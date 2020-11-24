@@ -25,4 +25,5 @@ We reviewed `String.length`, `String.sub` and `String.index`.  All of these func
 
 ### 2. The Needleman-Wunsch Sequence Alignment Algorithm
 
-The [Needleman-Wunsch](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm) Alignment Algorithm is summarized in the accompanying powerpoint slides.
+The [Needleman-Wunsch](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm) Alignment Algorithm is summarized in the accompanying powerpoint slides in `slides/`.
+
